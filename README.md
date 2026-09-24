@@ -3,9 +3,7 @@
 * **Варіант:** 34
 * **Рама:** Apex 7"
 * **Відеопередавач:** AKK Ultra Long Range 3W
-* **САПР:** Autodesk Fusion
 
-## Вміст репозиторію
 * `Lab9_Var34_Apex7_VTX.f3d` — повна параметрична CAD-збірка рами, VTX та кронштейнів.
 * `VTX_Mount_Var34.stl` — деталь кріплення VTX під 3D-друк (PETG/ASA).
 
